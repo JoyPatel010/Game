@@ -1,0 +1,44 @@
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Garden Collector.exe
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Garden Collector.deps.json
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Garden Collector.runtimeconfig.json
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Garden Collector.dll
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Garden Collector.pdb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\obj\Debug\net6.0\Garden Collector.csproj.AssemblyReference.cache
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\obj\Debug\net6.0\Garden Collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\obj\Debug\net6.0\Garden Collector.AssemblyInfoInputs.cache
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\obj\Debug\net6.0\Garden Collector.AssemblyInfo.cs
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\obj\Debug\net6.0\Garden Collector.csproj.CoreCompileInputs.cache
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\obj\Debug\net6.0\Garden C.94FEC1DB.Up2Date
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\obj\Debug\net6.0\Garden Collector.dll
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\obj\Debug\net6.0\refint\Garden Collector.dll
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\obj\Debug\net6.0\Garden Collector.pdb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\obj\Debug\net6.0\Garden Collector.genruntimeconfig.cache
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\obj\Debug\net6.0\ref\Garden Collector.dll
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\char.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Font\menuFont.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\backImg.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\apple.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\leaf.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\wood.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\contactPage.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Sound\backSong.ogg
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Sound\backSong.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\woodnew.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\intro.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Sound\collectionSound.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\bird1.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\bird2.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\bird3.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\snake.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Font\gameOverFont.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Sound\bite.xnb
+C:\Game Programming with Data Structure\Garden Collector\Garden Collector\bin\Debug\net6.0\Content\Image\mountain.xnb

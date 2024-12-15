@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/../../../Final Project Contents/intro.png</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Font/gameOverFont.spritefont</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Font/menuFont.spritefont</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Image/apple.png</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Image/backImg.png</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Image/bird1.png</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Image/bird2.png</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Image/bird3.png</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Image/char.png</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Image/contactPage.png</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Image/leaf.png</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Image/mountain.png</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Image/snake.png</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Image/wood.png</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Image/woodnew.jpg</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Sound/backSong.mp3</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Sound/bite.wav</File>
+    <File>C:/Game Programming with Data Structure/Garden Collector/Garden Collector/Content/Sound/collectionSound.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Image/intro.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
